@@ -19,7 +19,7 @@ For the calculation of the weights of the particles, the sum of the values â€‹â€
 
 <h3 align="center"> Object detection in an early frame </h3>
 <p align="center">
-<img src="include/1.jpg"  >
+<img src="include/1.png"  >
 </p>
 
 <h3 align="center"> Object detection after a 180 degrees rotetion of the can </h3>
